@@ -6,3 +6,5 @@
   <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
   <label for="vehicle3"> I have a boat</label>
 </form>
+<p>Thank you Lord for all your blessings!<p/>
+  
